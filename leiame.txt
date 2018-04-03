@@ -1,0 +1,2 @@
+Calculo do número de euler e plotagem com gnuplot de gráfico
+iterado até 10^20
